@@ -1,0 +1,44 @@
+{
+    "Rainbow": {
+        "C": "#FF0000",
+        "C#/Db": "#FF7F00",
+        "D": "#FFFF00",
+        "D#/Eb": "#7FFF00",
+        "E": "#00FF00",
+        "F": "#00FFFF",
+        "F#/Gb": "#007FFF",
+        "G": "#0000FF",
+        "G#/Ab": "#4B0082",
+        "A": "#9400D3",
+        "A#/Bb": "#FF00FF",
+        "B": "#FFC0CB"
+    },
+    "Pastel": {
+        "C": "#FFB3BA",
+        "C#/Db": "#FFDFBA",
+        "D": "#FFFFBA",
+        "D#/Eb": "#BAFFC9",
+        "E": "#BAE1FF",
+        "F": "#FFC3A0",
+        "F#/Gb": "#D5AAFF",
+        "G": "#B9FBC0",
+        "G#/Ab": "#F9D5E5",
+        "A": "#FFE156",
+        "A#/Bb": "#D3D3D3",
+        "B": "#FFE5B4"
+    },
+    "Earth Tones": {
+        "C": "#8B4513",
+        "C#/Db": "#D2691E",
+        "D": "#C0C0C0",
+        "D#/Eb": "#A0522D",
+        "E": "#556B2F",
+        "F": "#8FBC8F",
+        "F#/Gb": "#BC8F8F",
+        "G": "#DEB887",
+        "G#/Ab": "#F5DEB3",
+        "A": "#D2B48C",
+        "A#/Bb": "#FFE4B5",
+        "B": "#FFDAB9"
+    }
+}
