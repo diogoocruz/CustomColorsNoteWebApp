@@ -51,3 +51,5 @@ st.download_button(
     file_name="colors.txt",
     mime="text/plain"
 )
+
+st.markdown("*Made by: [diogoocruz](https://github.com/diogoocruz)*")
